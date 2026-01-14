@@ -43,7 +43,7 @@ body {
   cursor: pointer;
 }
 
-#btn {
+.btn {
   width: 100%;
   max-width: 40em;
   height: auto;
@@ -122,6 +122,7 @@ body{
     padding: 0.8em;
   }
 }
+
 
 
 
